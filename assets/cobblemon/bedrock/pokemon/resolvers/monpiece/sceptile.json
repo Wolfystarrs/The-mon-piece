@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:sceptile",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["zoro"],
+      "model": "monpiece:sceptile_zoro.geo",
+      "texture": "monpiece:textures/pokemon/sceptile/sceptile_zoro.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "zoro"],
+      "texture": "monpiece:textures/pokemon/sceptile/sceptile_shiny_zoro.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:sceptile_zoro.geo",
+      "texture": "monpiece:textures/pokemon/sceptile/sceptile_zoro.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/sceptile/sceptile_shiny_zoro.png"
+    }
+  ]
+}
