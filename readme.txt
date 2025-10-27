@@ -11,3 +11,5 @@ https://docs.google.com/spreadsheets/d/1IX5b1EgpKmPYDgzn2gnuHt7MJXQm9lFRYcxKR4gZ
 
 Images for each model can be seen here:
 https://drive.google.com/drive/folders/1GdAc8sZ1I5cwiAYD2gzdfSwvhpNCc0na?usp=drive_link
+
+If you have any ideas for shinies or other mons lmk
