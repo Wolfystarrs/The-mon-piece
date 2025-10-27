@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:prinplup",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["law"],
+      "model": "monpiece:prinplup_law.geo",
+      "texture": "monpiece:textures/pokemon/prinplup/prinplup_law.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "law"],
+      "texture": "monpiece:textures/pokemon/prinplup/prinplup_shiny_law.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:prinplup_law.geo",
+      "texture": "monpiece:textures/pokemon/prinplup/prinplup_law.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/prinplup/prinplup_shiny_law.png"
+    }
+  ]
+}

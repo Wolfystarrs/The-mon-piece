@@ -1,0 +1,6 @@
+{
+ "keys": ["big_mom"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

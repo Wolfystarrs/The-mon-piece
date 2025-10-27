@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:hariyama",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["big_mom"],
+      "model": "monpiece:hariyama_big_mom.geo",
+      "texture": "monpiece:textures/pokemon/hariyama/hariyama_big_mom.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "big_mom"],
+      "texture": "monpiece:textures/pokemon/hariyama/hariyama_shiny_big_mom.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:hariyama_big_mom.geo",
+      "texture": "monpiece:textures/pokemon/hariyama/hariyama_big_mom.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/hariyama/hariyama_shiny_big_mom.png"
+    }
+  ]
+}

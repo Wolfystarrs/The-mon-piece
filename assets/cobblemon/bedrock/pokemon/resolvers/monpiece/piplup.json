@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:piplup",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["law"],
+      "model": "monpiece:piplup_law.geo",
+      "texture": "monpiece:textures/pokemon/piplup/piplup_law.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "law"],
+      "texture": "monpiece:textures/pokemon/piplup/piplup_shiny_law.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:piplup_law.geo",
+      "texture": "monpiece:textures/pokemon/piplup/piplup_law.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/piplup/piplup_shiny_law.png"
+    }
+  ]
+}
