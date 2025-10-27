@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:zigzagoon",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["kid", "galarian"],
+      "model": "monpiece:zigzagoon_galarian_kid.geo",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "kid", "galarian"],
+      "texture": "monpiece:textures/pokemon/zigzagoon/zigzagoon_galarian_shiny_kid.png"
+    },
+    {
+      "aspects": ["one_piece", "galarian"],
+      "model": "monpiece:zigzagoon_galarian_kid.geo",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece", "galarian"],
+      "texture": "monpiece:textures/pokemon/zigzagoon/zigzagoon_galarian_shiny_kid.png"
+    }
+  ]
+}
