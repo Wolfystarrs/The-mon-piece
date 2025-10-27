@@ -1,0 +1,6 @@
+{
+ "keys": ["bon_clay"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

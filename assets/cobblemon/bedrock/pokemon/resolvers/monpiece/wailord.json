@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:wailord",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["laboon"],
+      "model": "monpiece:wailord_laboon.geo",
+      "texture": "monpiece:textures/pokemon/wailord/wailord_laboon.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "laboon"],
+      "texture": "monpiece:textures/pokemon/wailord/wailord_shiny_laboon.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:wailord_laboon.geo",
+      "texture": "monpiece:textures/pokemon/wailord/wailord_laboon.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/wailord/wailord_shiny_laboon.png"
+    }
+  ]
+}

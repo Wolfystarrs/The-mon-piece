@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:swanna",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["bon_clay"],
+      "model": "monpiece:swanna_bon_clay.geo",
+      "texture": "monpiece:textures/pokemon/swanna/swanna_bon_clay.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "bon_clay"],
+      "texture": "monpiece:textures/pokemon/swanna/swanna_shiny_alt_bon_clay.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:swanna_bon_clay.geo",
+      "texture": "monpiece:textures/pokemon/swanna/swanna_bon_clay.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/swanna/swanna_shiny_alt_bon_clay.png"
+    }
+  ]
+}
