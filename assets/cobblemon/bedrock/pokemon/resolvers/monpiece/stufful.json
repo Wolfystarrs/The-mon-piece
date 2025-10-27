@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:stufful",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["bepo"], 
+     "texture": "monpiece:textures/pokemon/stufful/stufful_bepo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "bepo"],
+      "texture": "monpiece:textures/pokemon/stufful/stufful_shiny_bepo.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "texture": "monpiece:textures/pokemon/stufful/stufful_bepo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/stufful/stufful_shiny_bepo.png"
+    }
+  ]
+}
