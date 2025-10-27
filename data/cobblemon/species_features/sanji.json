@@ -1,0 +1,6 @@
+{
+ "keys": ["sanji"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

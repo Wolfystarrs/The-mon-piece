@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:nuzleaf",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["usopp"],
+      "model": "monpiece:nuzleaf_usopp.geo",
+      "texture": "monpiece:textures/pokemon/nuzleaf/nuzleaf_usopp.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "usopp"],
+      "texture": "monpiece:textures/pokemon/nuzleaf/nuzleaf_shiny_usopp.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:nuzleaf_usopp.geo",
+      "texture": "monpiece:textures/pokemon/nuzleaf/nuzleaf_usopp.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/nuzleaf/nuzleaf_shiny_usopp.png"
+    }
+  ]
+}

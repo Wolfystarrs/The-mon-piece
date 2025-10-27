@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["franky"],
+      "model": "monpiece:blastoise_franky.geo",
+      "texture": "monpiece:textures/pokemon/blastoise/blastoise_franky.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "franky"],
+      "texture": "monpiece:textures/pokemon/blastoise/blastoise_shiny_franky.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:blastoise_franky.geo",
+      "texture": "monpiece:textures/pokemon/blastoise/blastoise_franky.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/blastoise/blastoise_shiny_franky.png"
+    }
+  ]
+}

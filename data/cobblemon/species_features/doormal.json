@@ -1,0 +1,6 @@
+{
+ "keys": ["doormal"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

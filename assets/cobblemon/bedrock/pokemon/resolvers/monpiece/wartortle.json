@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:wartortle",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["franky"],
+      "model": "monpiece:wartortle_franky.geo",
+      "texture": "monpiece:textures/pokemon/wartortle/wartortle_franky.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "franky"],
+      "texture": "monpiece:textures/pokemon/wartortle/wartortle_shiny_franky.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:wartortle_franky.geo",
+      "texture": "monpiece:textures/pokemon/wartortle/wartortle_franky.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/wartortle/wartortle_shiny_franky.png"
+    }
+  ]
+}

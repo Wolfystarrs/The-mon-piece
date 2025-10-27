@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:primarina",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["buggy"],
+      "model": "monpiece:primarina_buggy.geo",
+      "texture": "monpiece:textures/pokemon/primarina/primarina_buggy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "buggy"],
+      "texture": "monpiece:textures/pokemon/primarina/primarina_shiny_buggy.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:primarina_buggy.geo",
+      "texture": "monpiece:textures/pokemon/primarina/primarina_buggy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/primarina/primarina_shiny_buggy.png"
+    }
+  ]
+}

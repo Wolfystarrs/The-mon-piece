@@ -1,0 +1,6 @@
+{
+ "keys": ["jimbe"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

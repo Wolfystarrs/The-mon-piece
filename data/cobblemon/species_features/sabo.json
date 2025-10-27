@@ -1,0 +1,6 @@
+{
+ "keys": ["sabo"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

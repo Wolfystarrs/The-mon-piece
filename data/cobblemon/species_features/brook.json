@@ -1,0 +1,6 @@
+{
+ "keys": ["brook"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:shiftry",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["usopp"],
+      "model": "monpiece:shiftry_usopp.geo",
+      "texture": "monpiece:textures/pokemon/shiftry/shiftry_usopp.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "usopp"],
+      "texture": "monpiece:textures/pokemon/shiftry/shiftry_shiny_usopp.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:shiftry_usopp.geo",
+      "texture": "monpiece:textures/pokemon/shiftry/shiftry_usopp.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/shiftry/shiftry_shiny_usopp.png"
+    }
+  ]
+}

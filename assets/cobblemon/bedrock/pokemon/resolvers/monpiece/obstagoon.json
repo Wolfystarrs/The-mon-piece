@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:obstagoon",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["kid"],
+      "model": "monpiece:obstagoon_kid.geo",
+      "texture": "monpiece:textures/pokemon/obstagoon/obstagoon_kid.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "kid"],
+      "texture": "monpiece:textures/pokemon/obstagoon/obstagoon_shiny_kid.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:obstagoon_kid.geo",
+      "texture": "monpiece:textures/pokemon/obstagoon/obstagoon_kid.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/obstagoon/obstagoon_shiny_kid.png"
+    }
+  ]
+}

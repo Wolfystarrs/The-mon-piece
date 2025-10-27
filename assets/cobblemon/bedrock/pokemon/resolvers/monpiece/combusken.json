@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:combusken",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["sanji"],
+      "model": "monpiece:combusken_sanji.geo",
+      "texture": "monpiece:textures/pokemon/combusken/combusken_sanji.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "sanji"],
+      "texture": "monpiece:textures/pokemon/combusken/combusken_shiny_sanji.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:combusken_sanji.geo",
+      "texture": "monpiece:textures/pokemon/combusken/combusken_sanji.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/combusken/combusken_shiny_sanji.png"
+    }
+  ]
+}

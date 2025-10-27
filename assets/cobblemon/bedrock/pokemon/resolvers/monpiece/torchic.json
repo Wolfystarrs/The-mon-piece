@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:torchic",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["sanji"],
+      "model": "monpiece:torchic_sanji.geo",
+      "texture": "monpiece:textures/pokemon/torchic/torchic_sanji.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "sanji"],
+      "texture": "monpiece:textures/pokemon/torchic/torchic_shiny_sanji.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:torchic_sanji.geo",
+      "texture": "monpiece:textures/pokemon/torchic/torchic_sanji.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/torchic/torchic_shiny_sanji.png"
+    }
+  ]
+}

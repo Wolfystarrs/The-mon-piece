@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:liepard",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["nami"],
+            "model": "monpiece:liepard_nami.geo",
+      "texture": "monpiece:textures/pokemon/liepard/liepard_nami.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "nami"],
+      "texture": "monpiece:textures/pokemon/liepard/liepard_shiny_nami.png"
+    },
+    {
+      "aspects": ["one_piece"],
+            "model": "monpiece:liepard_nami.geo",
+      "texture": "monpiece:textures/pokemon/liepard/liepard_nami.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/liepard/liepard_shiny_nami.png"
+    }
+  ]
+}

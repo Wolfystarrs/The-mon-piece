@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:arcanine",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["ace"],
+            "model": "monpiece:arcanine_ace.geo",
+      "texture": "monpiece:textures/pokemon/arcanine/arcanine_ace.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "ace"],
+      "texture": "monpiece:textures/pokemon/arcanine/arcanine_shiny_ace.png"
+    },
+    {
+      "aspects": ["one_piece"],
+            "model": "monpiece:arcanine_ace.geo",
+      "texture": "monpiece:textures/pokemon/arcanine/arcanine_ace.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/arcanine/arcanine_shiny_ace.png"
+    }
+  ]
+}

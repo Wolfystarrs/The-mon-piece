@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:purrloin",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["nami"],
+      "model": "monpiece:purrloin_nami.geo",
+      "texture": "monpiece:textures/pokemon/purrloin/purrloin_nami.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "nami"],
+      "texture": "monpiece:textures/pokemon/purrloin/purrloin_shiny_alt_nami.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:purrloin_nami.geo",
+      "texture": "monpiece:textures/pokemon/purrloin/purrloin_nami.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/purrloin/purrloin_shiny_alt_nami.png"
+    }
+  ]
+}

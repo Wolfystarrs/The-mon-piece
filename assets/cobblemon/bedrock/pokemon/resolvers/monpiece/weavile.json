@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:weavile",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["doflamingo"],
+      "model": "monpiece:weavile_doflamingo.geo",
+      "texture": "monpiece:textures/pokemon/weavile/weavile_doflamingo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "doflamingo"],
+      "texture": "monpiece:textures/pokemon/weavile/weavile_shiny_doflamingo.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:weavile_doflamingo.geo",
+      "texture": "monpiece:textures/pokemon/weavile/weavile_doflamingo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/weavile/weavile_shiny_doflamingo.png"
+    }
+  ]
+}

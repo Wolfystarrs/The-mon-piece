@@ -1,0 +1,6 @@
+{
+ "keys": ["buggy"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

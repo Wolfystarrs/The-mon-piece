@@ -1,0 +1,74 @@
+{
+  "species": "cobblemon:deerling",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["chopper"],
+      "model": "monpiece:deerling_chopper.geo",
+      "texture": "monpiece:textures/pokemon/deerling/deerling_spring_chopper.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "chopper"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_spring_shiny_chopper.png"
+    },
+    {
+      "aspects": ["autumn", "chopper"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_autumn_chopper.png"
+    },
+    {
+      "aspects": ["summer", "chopper"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_summer_chopper.png"
+    },
+    {
+      "aspects": ["winter", "chopper"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_winter_chopper.png"
+    },
+    {
+      "aspects": ["autumn", "shiny", "chopper"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_autumn_shiny_chopper.png"
+    },
+    {
+      "aspects": ["summer", "shiny", "chopper"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_summer_shiny_chopper.png"
+    },
+    {
+      "aspects": ["winter", "shiny", "chopper"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_winter_shiny_chopper.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:deerling_chopper.geo",
+      "texture": "monpiece:textures/pokemon/deerling/deerling_spring_chopper.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_spring_shiny_chopper.png"
+    },
+    {
+      "aspects": ["autumn", "one_piece"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_autumn_chopper.png"
+    },
+    {
+      "aspects": ["summer", "one_piece"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_summer_chopper.png"
+    },
+    {
+      "aspects": ["winter", "one_piece"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_winter_chopper.png"
+    },
+    {
+      "aspects": ["autumn", "shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_autumn_shiny_chopper.png"
+    },
+    {
+      "aspects": ["summer", "shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_summer_shiny_chopper.png"
+    },
+    {
+      "aspects": ["winter", "shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/deerling/deerling_winter_shiny_chopper.png"
+    }
+  ]
+}

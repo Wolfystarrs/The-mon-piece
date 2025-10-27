@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:growlithe",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["ace"],
+      "texture": "monpiece:textures/pokemon/growlithe/growlithe_ace.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "ace"],
+      "texture": "monpiece:textures/pokemon/growlithe/growlithe_shiny_ace.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "texture": "monpiece:textures/pokemon/growlithe/growlithe_ace.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/growlithe/growlithe_shiny_ace.png"
+    }
+  ]
+}

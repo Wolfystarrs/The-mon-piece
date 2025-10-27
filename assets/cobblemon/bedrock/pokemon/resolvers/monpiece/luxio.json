@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:luxio",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["sabo"],
+      "model": "monpiece:luxio_sabo.geo",
+      "texture": "monpiece:textures/pokemon/luxio/luxio_sabo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "sabo"],
+      "texture": "monpiece:textures/pokemon/luxio/luxio_shiny_sabo.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:luxio_sabo.geo",
+      "texture": "monpiece:textures/pokemon/luxio/luxio_sabo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/luxio/luxio_shiny_sabo.png"
+    }
+  ]
+}

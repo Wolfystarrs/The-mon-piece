@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["robin"],
+      "model": "monpiece:gardevoir_robin.geo",
+      "texture": "monpiece:textures/pokemon/gardevoir/gardevoir_robin.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "robin"],
+      "texture": "monpiece:textures/pokemon/gardevoir/gardevoir_shiny_robin.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:gardevoir_robin.geo",
+      "texture": "monpiece:textures/pokemon/gardevoir/gardevoir_robin.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/gardevoir/gardevoir_shiny_robin.png"
+    }
+  ]
+}

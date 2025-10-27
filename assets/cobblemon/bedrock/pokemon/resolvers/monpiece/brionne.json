@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:brionne",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["buggy"],
+      "model": "monpiece:brionne_buggy.geo",
+      "texture": "monpiece:textures/pokemon/brionne/brionne_buggy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "buggy"],
+      "texture": "monpiece:textures/pokemon/brionne/brionne_shiny_buggy.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:brionne_buggy.geo",
+      "texture": "monpiece:textures/pokemon/brionne/brionne_buggy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/brionne/brionne_shiny_buggy.png"
+    }
+  ]
+}

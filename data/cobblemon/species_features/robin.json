@@ -1,0 +1,6 @@
+{
+ "keys": ["robin"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

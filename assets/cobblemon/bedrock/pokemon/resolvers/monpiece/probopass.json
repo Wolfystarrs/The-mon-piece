@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:probopass",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["doormal"],
+      "model": "monpiece:probopass_doormal.geo",
+      "texture": "monpiece:textures/pokemon/probopass/probopass_doormal.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "doormal"],
+      "texture": "monpiece:textures/pokemon/probopass/probopass_shiny_doormal.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:probopass_doormal.geo",
+      "texture": "monpiece:textures/pokemon/probopass/probopass_doormal.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/probopass/probopass_shiny_doormal.png"
+    }
+  ]
+}

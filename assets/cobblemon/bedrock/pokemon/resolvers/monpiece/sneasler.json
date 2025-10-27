@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:sneasler",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["corazone"],
+      "model": "monpiece:sneasler_corazone.geo",
+      "texture": "monpiece:textures/pokemon/sneasler/sneasler_corazone.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "corazone"],
+      "texture": "monpiece:textures/pokemon/sneasler/sneasler_shiny_corazone.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:sneasler_corazone.geo",
+      "texture": "monpiece:textures/pokemon/sneasler/sneasler_corazone.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/sneasler/sneasler_shiny_corazone.png"
+    }
+  ]
+}

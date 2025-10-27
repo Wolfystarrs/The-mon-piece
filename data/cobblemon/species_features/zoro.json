@@ -1,0 +1,6 @@
+{
+ "keys": ["zoro"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

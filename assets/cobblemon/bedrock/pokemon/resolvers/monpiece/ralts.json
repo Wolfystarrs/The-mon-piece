@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:ralts",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["robin"],
+      "texture": "monpiece:textures/pokemon/ralts/ralts_robin.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "robin"],
+      "texture": "monpiece:textures/pokemon/ralts/ralts_shiny_robin.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "texture": "monpiece:textures/pokemon/ralts/ralts_robin.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/ralts/ralts_shiny_robin.png"
+    }
+  ]
+}

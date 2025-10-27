@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:blaziken",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["sanji"],
+      "model": "monpiece:blaziken_sanji.geo",
+      "texture": "monpiece:textures/pokemon/blaziken/blaziken_sanji.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "sanji"],
+      "texture": "monpiece:textures/pokemon/blaziken/blaziken_shiny_sanji.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:blaziken_sanji.geo",
+      "texture": "monpiece:textures/pokemon/blaziken/blaziken_sanji.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/blaziken/blaziken_shiny_sanji.png"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+ "keys": ["bepo"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

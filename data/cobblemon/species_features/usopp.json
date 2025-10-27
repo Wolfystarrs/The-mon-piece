@@ -1,0 +1,6 @@
+{
+ "keys": ["usopp"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

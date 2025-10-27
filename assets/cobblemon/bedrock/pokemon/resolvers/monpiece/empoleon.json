@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:empoleon",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["law"],
+      "model": "monpiece:empoleon_law.geo",
+      "texture": "monpiece:textures/pokemon/empoleon/empoleon_law.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "law"],
+      "texture": "monpiece:textures/pokemon/empoleon/empoleon_shiny_law.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:empoleon_law.geo",
+      "texture": "monpiece:textures/pokemon/empoleon/empoleon_law.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/empoleon/empoleon_shiny_law.png"
+    }
+  ]
+}

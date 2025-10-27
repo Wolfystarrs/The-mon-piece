@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:bewear",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["bepo"],
+      "model": "monpiece:bewear_bepo.geo",
+      "texture": "monpiece:textures/pokemon/bewear/bewear_bepo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "bepo"],
+      "texture": "monpiece:textures/pokemon/bewear/bewear_shiny_bepo.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:bewear_bepo.geo",
+      "texture": "monpiece:textures/pokemon/bewear/bewear_bepo.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/bewear/bewear_shiny_bepo.png"
+    }
+  ]
+}

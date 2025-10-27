@@ -1,0 +1,6 @@
+{
+ "keys": ["one_piece"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}
