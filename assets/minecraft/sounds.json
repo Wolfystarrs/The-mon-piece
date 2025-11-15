@@ -1,0 +1,10 @@
+{
+    "teleport": {
+         "sounds":[
+             {
+                 "name": "custom/tp",
+                 "weight": 1
+             } 
+         ]
+    }
+}
