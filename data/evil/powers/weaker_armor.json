@@ -1,0 +1,11 @@
+{
+    "name": "Unkown garments",
+    "description": "As most armour made in these lands is unfamiliar to you, you do not understand how to properly shield it's weak spots. All armour is less effective for this reason.",
+    "type": "origins:attribute",
+    "modifier": {
+        "id":"evil:weaker_armor",
+        "attribute": "minecraft:generic.armor",
+        "operation": "add_multiplied_total",
+        "amount": -0.25
+    }
+}

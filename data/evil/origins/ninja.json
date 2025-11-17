@@ -1,0 +1,16 @@
+{
+	"order": 4,
+	"impact": 2,
+	"name": "Ninja",
+	"description": "You hail from a distant land with closed borders, your techniques honed and unknown to those outside of your home.",
+	"powers": [
+		"evil:smokescreen",
+		"evil:tp_behind",
+		"evil:weaker_armor",
+		"evil:japanese_foods"
+	],
+	"icon": {
+        "id": "cobblemon:black_belt",
+        "amount": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "values": [
+        "farmersdelight:kelp_roll_slice",
+        "farmersdelight:kelp_roll",
+        "farmersdelight:cod_slice",
+        "farmersdelight:cooked_cod_slice",
+        "farmersdelight:cod_roll",
+        "farmersdelight:salmon_slice",
+        "farmersdelight:cooked_salmon_slice",
+        "farmersdelight:salmon_roll",
+        "farmersdelight:rice",
+        "farmersdelight:cooked_rice",
+        "farmersdelight:fried_rice",
+        "farmersdelight:raw_pasta",
+        "farmersdelight:noodle_soup",
+        "farmersdelight:baked_cod_stew",
+        "farmersdelight:fish_stew",
+        "farmersdelight:dumplings"
+    ]
+}
