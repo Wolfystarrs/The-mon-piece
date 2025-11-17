@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:pikachu",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["overcharged"],
+      "model": "monpiece:pikachu_overcharged.geo",
+      "texture": "monpiece:textures/pokemon/pikachu/pikachu_overcharged.png",
+      "layers": [
+        {
+          "name": "overcharge",
+          "texture": {
+            "frames": [
+              "monpiece:textures/pokemon/pikachu/animation/frame1.png",
+              "monpiece:textures/pokemon/pikachu/animation/frame2.png"
+            ],
+            "fps": 6,
+            "loop": true
+          },
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}
