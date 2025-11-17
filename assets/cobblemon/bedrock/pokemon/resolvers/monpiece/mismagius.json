@@ -8,8 +8,7 @@
       "layers": []
     },
     {
-      "aspects": ["shiny", "perona"],
-      "texture": "monpiece:textures/pokemon/mismagius/mismagius_shiny_perona.png"
+      "aspects": ["shiny", "perona"]
     },
     {
       "aspects": ["one_piece"],
@@ -17,8 +16,7 @@
       "layers": []
     },
     {
-      "aspects": ["shiny", "one_piece"],
-      "texture": "monpiece:textures/pokemon/mismagius/mismagius_shiny_perona.png"
+      "aspects": ["shiny", "one_piece"]
     }
   ]
 }

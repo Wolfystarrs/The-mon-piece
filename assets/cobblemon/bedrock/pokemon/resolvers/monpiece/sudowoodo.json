@@ -9,8 +9,7 @@
       "layers": []
     },
     {
-      "aspects": ["shiny", "greenbull"],
-      "texture": "monpiece:textures/pokemon/sudowoodo/sudowoodo_shiny_greenbull.png"
+      "aspects": ["shiny", "greenbull"]
     },
     {
       "aspects": ["one_piece"],
@@ -19,8 +18,7 @@
       "layers": []
     },
     {
-      "aspects": ["shiny", "one_piece"],
-      "texture": "monpiece:textures/pokemon/sudowoodo/sudowoodo_shiny_greenbull.png"
+      "aspects": ["shiny", "one_piece"]
     }
   ]
 }

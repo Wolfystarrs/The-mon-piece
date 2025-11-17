@@ -9,8 +9,7 @@
       "layers": []
     },
     {
-      "aspects": ["shiny", "elizabello"],
-      "texture": "monpiece:textures/pokemon/hitmonchan/hitmonchan_shiny_elizabello.png"
+      "aspects": ["shiny", "elizabello"]
     },
     {
       "aspects": ["one_piece"],
@@ -19,8 +18,7 @@
       "layers": []
     },
     {
-      "aspects": ["shiny", "one_piece"],
-      "texture": "monpiece:textures/pokemon/hitmonchan/hitmonchan_shiny_elizabello.png"
+      "aspects": ["shiny", "one_piece"]
     }
   ]
 }
