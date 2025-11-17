@@ -17,7 +17,14 @@
             "fps": 6,
             "loop": true
           },
-          "emissive": true
+          "emissive": true,
+          "translucent": true
+        },
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "monpiece:textures/pokemon/pikachu/pikachu_overcharged_emissive.png",
+              "translucent": true
         }
       ]
     }
