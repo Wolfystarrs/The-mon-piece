@@ -1,0 +1,15 @@
+{
+	"order": 2,
+	"impact": 1,
+	"name": "Celestial Dragon",
+	"description": "I'll let you know only the BEST players can choose this origin. No, nno, my Mum will call imu if you dont listen to ME!",
+	"powers": [
+		"evil:bubble",
+		"evil:villager_pref",
+		"evil:op_conversion"
+	],
+	"icon": {
+        "id": "minecraft:diamond",
+        "amount": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Right Behind You",
+    "description": "You can hone your instincts to see slightly into the future, allowing you to move you faster than light behind your attacker before you can be hit.",
+     "badges": [
+        {
+            "type": "origins:tooltip",
+            "text": "The damage of the attack is negated.",
+            "sprite": "origins:textures/gui/badge/info.png"
+        }
+    ],
+    "type": "origins:multiple",
+    "cool": {
+        "type": "origins:modify_damage_taken",
+        "modifier": {
+            "id": "evil:damage_cancel",
+            "operation": "set_total",
+            "amount": 0.0
+        },
+        "damage_condition": {
+            "type": "origins:attacker"
+        },
+        "bientity_condition": {
+            "type": "origins:target_condition",
+            "condition": 
+                {
+                    "type": "origins:resource",
+                    "resource": "*:*_cooldown",
+                    "comparison": ">=",
+                    "compare_to": 140
+                }
+        },
+        "self_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:delay",
+                    "action": {
+                        "type": "origins:execute_command",
+                        "command": "/tag @s remove step"
+                    },
+                    "ticks": 2
+                }
+            ]
+        },
+        "attacker_action": {
+            "type": "origins:delay",
+            "action": {
+                "type": "origins:and",
+                "actions": [
+                    {
+                        "type": "origins:execute_command",
+                        "command": "/execute at @e[sort=nearest,limit=1] run tp @s ^ ^2 ^2.5 ~180 ~"
+                    },
+                    {
+                        "type": "origins:play_sound",
+                        "sound": "minecraft:teleport",
+                        "volume": 1,
+                        "pitch": 1
+                    }
+                ]
+            },
+            "ticks": 1
+        }
+    },
+    "cooldown": {
+        "type": "origins:active_self",
+        "cooldown": 200,
+             "entity_action":  {
+                    "type": "origins:execute_command",
+                    "command": "/tag @s add step"
+                },
+        "hud_render": {
+            "should_render": true,
+            "sprite_location": "origins:textures/gui/community/huang/resource_bar_02.png",
+            "bar_index": 5
+        }
+    }
+}

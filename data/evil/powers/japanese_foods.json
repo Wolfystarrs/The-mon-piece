@@ -1,0 +1,22 @@
+{
+    "name": "Sepcialised Taste",
+    "description": "Some call you picky but for you it's a matter of pride. You will only eat japanese food.",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:food"
+            },
+            {
+                "type": "origins:ingredient",
+                "ingredient": {
+                "tag": "evil:japanese"
+                },
+                "inverted":true
+            }
+        ]
+        
+    }
+
+}

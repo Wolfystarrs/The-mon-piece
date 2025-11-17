@@ -1,0 +1,70 @@
+{
+    "name": "Smokescreen",
+    "description": "You can periodically set off a smokescreen to distract and confuse enemies.",
+    "type": "origins:multiple",
+    "smokescreen": {
+        "type": "origins:active_self",
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:spawn_particles",
+                    "particle": "minecraft:campfire_signal_smoke",
+                    "count": 550,
+                    "speed": 0,
+                    "force": true,
+                    "spread": {
+                        "x": 3,
+                        "y": 1,
+                        "z": 3
+                    }
+                },
+                {
+                    "type": "origins:set_resource",
+                    "resource": "*:smokescreen_invis_res",
+                    "value": 0
+                }
+            ]
+        },
+        "cooldown": 400,
+        "hud_render": {
+            "should_render": true,
+            "bar_index": 1,
+            "sprite_location": "origins:textures/gui/community/huang/resource_bar_02.png"
+        },
+        "key": {
+            "key": "key.origins.secondary_active"
+        }
+    },
+    "invis": {
+        "condition": {
+            "type": "origins:resource",
+            "resource": "*:smokescreen_invis_res",
+            "comparison": ">",
+            "compare_to": 100
+        },
+        "type": "origins:invisibility",
+        "render_armor": false
+    },
+    "invis2": {
+        "type": "origins:prevent_feature_render",
+        "features": [
+            "armor",
+            "held_item",
+            "elytra"
+        ],
+        "condition": {
+            "type": "origins:resource",
+            "resource": "*:smokescreen_invis_res",
+            "comparison": ">",
+            "compare_to": 100
+        }
+    },
+    "invis_res": {
+        "type": "origins:cooldown",
+        "cooldown": 200,
+        "hud_render": {
+            "should_render": false
+        }
+    }
+}
