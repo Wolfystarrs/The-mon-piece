@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:sableye",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["barto"],
+      "model": "monpiece:sableye_barto.geo",
+      "texture": "monpiece:textures/pokemon/sableye/sableye_barto.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "barto"]
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:sableye_barto.geo",
+      "texture": "monpiece:textures/pokemon/sableye/sableye_barto.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+ "keys": ["elizabello"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

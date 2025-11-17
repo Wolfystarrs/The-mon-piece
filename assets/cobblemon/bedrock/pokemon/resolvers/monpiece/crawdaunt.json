@@ -1,0 +1,28 @@
+{
+  "species": "cobblemon:crawdaunt",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["capone"],
+      "model": "monpiece:crawdaunt_capone.geo",
+      "texture": "monpiece:textures/pokemon/crawdaunt/crawdaunt_capone.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "capone"],
+      "model": "monpiece:crawdaunt_capone_castle.geo",
+      "texture": "monpiece:textures/pokemon/crawdaunt/crawdaunt_shiny_capone.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:crawdaunt_capone.geo",
+      "texture": "monpiece:textures/pokemon/crawdaunt/crawdaunt_capone.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "model": "monpiece:crawdaunt_capone_castle.geo",
+      "texture": "monpiece:textures/pokemon/crawdaunt/crawdaunt_shiny_capone.png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:cacturne",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["crocodile"],
+      "model": "monpiece:cacturne_crocodile.geo",
+      "texture": "monpiece:textures/pokemon/cacturne/cacturne_crocodile.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "crocodile"],
+      "texture": "monpiece:textures/pokemon/cacturne/cacturne_shiny_crocodile.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:cacturne_crocodile.geo",
+      "texture": "monpiece:textures/pokemon/cacturne/cacturne_crocodile.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/cacturne/cacturne_shiny_crocodile.png"
+    }
+  ]
+}

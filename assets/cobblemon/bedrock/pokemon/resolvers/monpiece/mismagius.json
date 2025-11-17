@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:mismagius",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["perona"],
+      "texture": "monpiece:textures/pokemon/mismagius/mismagius_perona.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "perona"],
+      "texture": "monpiece:textures/pokemon/mismagius/mismagius_shiny_perona.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "texture": "monpiece:textures/pokemon/mismagius/mismagius_perona.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/mismagius/mismagius_shiny_perona.png"
+    }
+  ]
+}

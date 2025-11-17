@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:sudowoodo",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["greenbull"],
+      "model": "monpiece:sudowoodo_greenbull.geo",
+      "texture": "monpiece:textures/pokemon/sudowoodo/sudowoodo_greenbull.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "greenbull"],
+      "texture": "monpiece:textures/pokemon/sudowoodo/sudowoodo_shiny_greenbull.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:sudowoodo_greenbull.geo",
+      "texture": "monpiece:textures/pokemon/sudowoodo/sudowoodo_greenbull.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/sudowoodo/sudowoodo_shiny_greenbull.png"
+    }
+  ]
+}

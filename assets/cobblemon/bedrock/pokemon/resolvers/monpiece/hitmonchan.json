@@ -1,0 +1,26 @@
+{
+  "species": "cobblemon:hitmonchan",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["elizabello"],
+      "model": "monpiece:hitmonchan_elizabello.geo",
+      "texture": "monpiece:textures/pokemon/hitmonchan/hitmonchan_elizabello.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "elizabello"],
+      "texture": "monpiece:textures/pokemon/hitmonchan/hitmonchan_shiny_elizabello.png"
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:hitmonchan_elizabello.geo",
+      "texture": "monpiece:textures/pokemon/hitmonchan/hitmonchan_elizabello.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/hitmonchan/hitmonchan_shiny_elizabello.png"
+    }
+  ]
+}

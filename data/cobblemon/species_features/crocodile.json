@@ -1,0 +1,6 @@
+{
+ "keys": ["crocodile"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}
