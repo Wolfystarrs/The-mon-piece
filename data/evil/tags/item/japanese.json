@@ -1,5 +1,9 @@
 {
     "values": [
+        "minecraft:cod",
+        "minecraft:cooked_cod",
+        "minecraft:salmon",
+        "minecraft:cooked_salmon",
         "farmersdelight:kelp_roll_slice",
         "farmersdelight:kelp_roll",
         "farmersdelight:cod_slice",
