@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:gyarados",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["kaido"],
+      "model": "monpiece:gyarados_kaido.geo",
+      "texture": "monpiece:textures/pokemon/gyarados/gyarados_kaido.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "kaido"]
+    },
+    {
+      "aspects": ["momonosuke"],
+      "model": "monpiece:gyarados_kaido.geo",
+      "texture": "monpiece:textures/pokemon/gyarados/gyarados_momonosuke.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "momonosuke"]
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:gyarados_kaido.geo",
+      "texture": "monpiece:textures/pokemon/gyarados/gyarados_kaido.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"],
+      "texture": "monpiece:textures/pokemon/gyarados/gyarados_momonosuke.png"
+    }
+  ]
+}

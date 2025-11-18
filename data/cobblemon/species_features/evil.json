@@ -1,0 +1,6 @@
+{
+ "keys": ["evil"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}

@@ -1,0 +1,88 @@
+{
+  "species": "cobblemon:sawsbuck",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["chopper", "evil"],
+      "model": "monpiece:sawsbuck_spring_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_spring_chopper.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "chopper", "evil"],
+      "model": "monpiece:sawsbuck_spring_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_spring_shiny_chopper.png"
+    },
+    {
+      "aspects": ["autumn", "chopper", "evil"],
+      "model": "monpiece:sawsbuck_autumn_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_autumn_chopper.png"
+    },
+    {
+      "aspects": ["summer", "chopper", "evil"],
+      "model": "monpiece:sawsbuck_summer_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_summer_chopper.png"
+    },
+    {
+      "aspects": ["winter", "chopper", "evil"],
+      "model": "monpiece:sawsbuck_winter_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_winter_chopper.png"
+    },
+    {
+      "aspects": ["autumn", "shiny", "chopper", "evil"],
+      "model": "monpiece:sawsbuck_autumn_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_autumn_shiny_chopper.png"
+    },
+    {
+      "aspects": ["summer", "shiny", "chopper", "evil"],
+      "model": "monpiece:sawsbuck_summer_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_summer_shiny_chopper.png"
+    },
+    {
+      "aspects": ["winter", "shiny", "chopper", "evil"],
+      "model": "monpiece:sawsbuck_winter_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_winter_shiny_chopper.png"
+    },
+      {
+      "aspects": ["one_piece", "evil"],
+      "model": "monpiece:sawsbuck_spring_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_spring_chopper.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece", "evil"],
+      "model": "monpiece:sawsbuck_spring_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_spring_shiny_chopper.png"
+    },
+    {
+      "aspects": ["autumn", "one_piece", "evil"],
+      "model": "monpiece:sawsbuck_autumn_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_autumn_chopper.png"
+    },
+    {
+      "aspects": ["summer", "one_piece", "evil"],
+      "model": "monpiece:sawsbuck_summer_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_summer_chopper.png"
+    },
+    {
+      "aspects": ["winter", "one_piece", "evil"],
+      "model": "monpiece:sawsbuck_winter_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_winter_chopper.png"
+    },
+    {
+      "aspects": ["autumn", "shiny", "one_piece", "evil"],
+      "model": "monpiece:sawsbuck_autumn_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_autumn_shiny_chopper.png"
+    },
+    {
+      "aspects": ["summer", "shiny", "one_piece", "evil"],
+      "model": "monpiece:sawsbuck_summer_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_summer_shiny_chopper.png"
+    },
+    {
+      "aspects": ["winter", "shiny", "one_piece", "evil"],
+      "model": "monpiece:sawsbuck_winter_chopper.geo",
+      "texture": "monpiece:textures/pokemon/sawsbuck/evil/sawsbuck_winter_shiny_chopper.png"
+    }
+  ]
+}

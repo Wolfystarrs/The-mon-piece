@@ -1,0 +1,6 @@
+{
+ "keys": ["momonosuke"],
+ "type": "flag",
+ "isAspect": true,
+ "default": false
+}
