@@ -1,0 +1,36 @@
+{
+  "species": "cobblemon:aipom",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["luffy", "evil"],
+      "model": "monpiece:aipom_luffy.geo",
+      "texture": "monpiece:textures/pokemon/aipom/evil/aipom_luffy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "luffy", "evil"],
+      "texture": "monpiece:textures/pokemon/aipom/evil/aipom_shiny_alt_luffy.png"
+    },
+    {
+      "aspects": ["luffyette"],
+      "model": "monpiece:aipom_luffy.geo",
+      "texture": "monpiece:textures/pokemon/aipom/evil/aipom_luffy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "luffyette"],
+      "texture": "monpiece:textures/pokemon/aipom/evil/aipom_shiny_alt_luffy.png"
+    },
+    {
+      "aspects": ["one_piece", "evil"],
+      "model": "monpiece:aipom_luffy.geo",
+      "texture": "monpiece:textures/pokemon/aipom/evil/aipom_luffy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece", "evil"],
+      "texture": "monpiece:textures/pokemon/aipom/evil/aipom_shiny_alt_luffy.png"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "species": "cobblemon:ambipom",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["luffy", "evil"],
+      "model": "monpiece:ambipom_luffyette.geo",
+      "texture": "monpiece:textures/pokemon/ambipom/evil/ambipom_luffy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "luffy", "evil"],
+      "texture": "monpiece:textures/pokemon/ambipom/evil/ambipom_shiny_alt_luffy.png"
+    },
+    {
+      "aspects": ["luffyette"],
+      "model": "monpiece:ambipom_luffyette.geo",
+      "texture": "monpiece:textures/pokemon/ambipom/evil/ambipom_luffy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "luffyette"],
+      "texture": "monpiece:textures/pokemon/ambipom/evil/ambipom_shiny_alt_luffy.png"
+    },
+    {
+      "aspects": ["one_piece", "evil"],
+      "model": "monpiece:ambipom_luffyette.geo",
+      "texture": "monpiece:textures/pokemon/ambipom/evil/ambipom_luffy.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece", "evil"],
+      "texture": "monpiece:textures/pokemon/ambipom/evil/ambipom_shiny_alt_luffy.png"
+    }
+  ]
+}
