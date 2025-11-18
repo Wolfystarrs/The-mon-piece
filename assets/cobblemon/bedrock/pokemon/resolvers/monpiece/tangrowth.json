@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:tangrowth",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["wanze"],
+      "model": "monpiece:tangrowth_wanze.geo",
+      "texture": "monpiece:textures/pokemon/tangrowth/tangrowth_wanze.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "wanze"]
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:tangrowth_wanze.geo",
+      "texture": "monpiece:textures/pokemon/tangrowth/tangrowth_wanze.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"]
+    }
+  ]
+}

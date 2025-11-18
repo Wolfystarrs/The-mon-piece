@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:tangela",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["wanze"],
+      "model": "monpiece:tangela_wanze.geo",
+      "texture": "monpiece:textures/pokemon/tangela/tangela_wanze.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "wanze"]
+    },
+    {
+      "aspects": ["one_piece"],
+      "model": "monpiece:tangela_wanze.geo",
+      "texture": "monpiece:textures/pokemon/tangela/tangela_wanze.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny", "one_piece"]
+    }
+  ]
+}
